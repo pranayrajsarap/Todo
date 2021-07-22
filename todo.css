@@ -1,0 +1,50 @@
+body{
+    background-color: lightskyblue;    
+}
+
+div{
+    
+    display: inline-block;
+    width: 130px;
+    padding-top: 50px;
+    padding-left: 520px;
+    
+}
+
+#text-input{
+    height:11.5%;
+    width: 65%;
+    font-size: 25px;
+}
+
+
+#add-item, #update-item, #remove-first-item {
+        
+    
+    height: 13%;
+    margin-left: 15px;
+   
+        
+}
+.todo-content {
+    text-align: center;
+    width: 400px;
+    height: 400px;   
+}
+
+
+#todo-list li{
+
+  float: left;
+  font-size: 40px;
+  list-style: none;
+  text-align: center;
+  background-color: lightsteelblue;
+  margin-right: 30px;
+  width: 250px;
+  line-height: 40px;
+  margin-top: 30px;
+  margin-left: 40px;
+  
+}
+
